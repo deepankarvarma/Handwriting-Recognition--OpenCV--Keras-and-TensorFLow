@@ -8,3 +8,4 @@ streamlit==1.14.1
 tensorflow==2.10.0
 tensorflow_datasets==3.2.1
 imutils==0.5.4
+opencv-python==4.7.0.72
